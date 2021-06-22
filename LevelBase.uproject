@@ -50,6 +50,10 @@
 		{
 			"Name": "Landmass",
 			"Enabled": true
+		},
+		{
+			"Name": "Ansel",
+			"Enabled": true
 		}
 	]
 }
