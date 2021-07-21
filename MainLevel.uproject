@@ -54,6 +54,10 @@
 		{
 			"Name": "Ansel",
 			"Enabled": true
+		},
+		{
+			"Name": "RLPlugin",
+			"Enabled": true
 		}
 	]
 }
