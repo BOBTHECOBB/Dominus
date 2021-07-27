@@ -58,6 +58,10 @@
 		{
 			"Name": "RLPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "AtomsUnreal",
+			"Enabled": true
 		}
 	]
 }
