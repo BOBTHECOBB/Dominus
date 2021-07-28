@@ -62,6 +62,14 @@
 		{
 			"Name": "AtomsUnreal",
 			"Enabled": true
+		},
+		{
+			"Name": "VirtualCamera",
+			"Enabled": true
+		},
+		{
+			"Name": "RemoteSession",
+			"Enabled": true
 		}
 	]
 }
